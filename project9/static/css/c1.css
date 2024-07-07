@@ -1,0 +1,17 @@
+h1
+{
+    color:violet;
+}
+
+img
+{
+    height:300px;
+    width:300px;
+    border:2px solid beige;
+    
+}
+body
+{
+    background-color:aqua;
+    text-align:center;
+}
